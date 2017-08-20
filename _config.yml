@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Iris Liu"
+title: "Iris Liu"
+description: "Blog and website of Iris Liu"
+keywords: ""
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "When you play the game of thrones, you win or you die."
+  - text: "Winter is coming"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -136,7 +136,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Iris Liu is an awesome person. In her spare time, she likes to eat sweet potatoes."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -150,8 +150,6 @@ social:
     url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
@@ -197,5 +195,3 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
-
-theme: jekyll-theme-architect
